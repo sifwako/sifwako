@@ -51,10 +51,3 @@
 ## 🧪 Research & Publications
 
 - [🔐 Authenticating HTTPS Connection without Relying on Certification Authorities (https://doi.org/10.1109/URC62276.2024.10604609) *(IEEE Paper)*
-
----
-
-## 📊 GitHub Stats
-
-[![Sifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifwako&show_icons=true&theme=tokyonight)](https://github.com/sifwako/github-readme-stats)
-
