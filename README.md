@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Sifan Waktole Dadi 👨‍💻</h1>
-<p align="center">MSc Student in Computer Science | Research Assistant | AI & Security Enthusiast</p>
+<p align="center">MSc Student in Computer Science | Research Assistant</p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/sifan-dadi](https://www.linkedin.com/in/sifan-waktole-/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/sifan-waktole-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:sifan.w.d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/sifwako"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
