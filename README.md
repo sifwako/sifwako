@@ -56,15 +56,5 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sifwako&show_icons=true&theme=default&hide_border=false" alt="Sifan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifwako&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sifwako&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
+[![Sifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifwako&show_icons=true&theme=tokyonight)](https://github.com/sifwako/github-readme-stats)
 
