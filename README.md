@@ -53,3 +53,18 @@
 - [🔐 Authenticating HTTPS Connection without Relying on Certification Authorities (https://doi.org/10.1109/URC62276.2024.10604609) *(IEEE Paper)*
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sifwako&show_icons=true&theme=default&hide_border=false" alt="Sifan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifwako&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sifwako&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
+
