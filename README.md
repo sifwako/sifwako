@@ -15,7 +15,7 @@
 
 ## 🧪 Research & Publications
 
-- [🔐 HTTPS without Certificate Authorities](https://doi.org/10.1109/URC62276.2024.10604609) *(IEEE Paper)*
+- [🔐 Authenticating HTTPS Connection without Relying on Certification Authorities (https://doi.org/10.1109/URC62276.2024.10604609) *(IEEE Paper)*
 
 ---
 
