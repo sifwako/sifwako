@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Sifan Waktole Dadi 👨‍💻</h1>
 <p align="center">🎓 MSc in Computer Science @ University of Eastern Finland </p>
 
+<p align="center">
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/sifan-dadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:sifan.w.d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
 ---
 
 ## 🎓 Education
