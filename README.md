@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Sifan 👨‍💻</h1>
-<p align="center">MSc Student in Computer Science | Research Assistant | AI & Security Enthusiast</p>
+<h1 align="center">Hi there 👋, I'm Sifan Waktole Dadi 👨‍💻</h1>
+<p align="center">🎓 MSc in Computer Science @ University of Eastern Finland </p>
 
 ---
 
@@ -9,16 +9,13 @@
   📍 Joensuu, Finland | 🎓 2024 – Present | 🇫🇮 Finland Scholarship Recipient
 
 - 💻 **BSc in Information Technology** – *Zayed University*  
-  📍 Abu Dhabi, UAE | 🎓 2020 – 2023  
-  🏅 Dean’s List | 🥇 Hackathon Winner | 🇦🇪 UAE 10-Year Golden Visa
+  📍 Abu Dhabi, UAE | 🎓 2020 – 2023 | Merit-based Scholarship 
 
 ---
 
-## 🧪 Research & Projects
+## 🧪 Research & Publications
 
 - [🔐 HTTPS without Certificate Authorities](https://doi.org/10.1109/URC62276.2024.10604609) *(IEEE Paper)*
-- 🎓 Anti-Cheating Knowledge Base for Higher Education
-- 🤖 Adversarial Attacks on Traffic Sign Recognition Models
 
 ---
 
@@ -64,5 +61,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sifan--dadi-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifan-dadi)
 
 ---
-
-> *"Always learning. Always building. Always curious."*
