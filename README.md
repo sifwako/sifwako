@@ -51,3 +51,4 @@
 ## 🧪 Research & Publications
 
 - [🔐 Authenticating HTTPS Connection without Relying on Certification Authorities (https://doi.org/10.1109/URC62276.2024.10604609) *(IEEE Paper)*
+- [🛡️🎓 CheatGuard: A cybersecurity inspired anti-cheating platform for higher education (https://link.springer.com/article/10.1007/s10639-025-13705-3) *(Education and Information Technologies)*
