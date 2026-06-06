@@ -12,7 +12,7 @@
 ## 🎓 Education
 
 - 🧠 **MSc in Computer Science** – *University of Eastern Finland*  
-  📍 Joensuu, Finland | 🎓 2024 – Present | 🇫🇮 Finland Scholarship Recipient
+  📍 Joensuu, Finland | 🎓 2024 – 2025 | 🇫🇮 Finland Scholarship Recipient
 
 - 💻 **BSc in Information Technology** – *Zayed University*  
   📍 Abu Dhabi, UAE | 🎓 2020 – 2023  | 🇦🇪 Fully-funded Scholarship 
